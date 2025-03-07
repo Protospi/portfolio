@@ -1,0 +1,74 @@
+{
+  "landing": {
+    "select_language": "Selecciona tu idioma",
+    "placeholder": "Elige un idioma",
+    "languages": {
+      "en": "Inglés",
+      "es": "Español",
+      "pt": "Portugués"
+    },
+    "continue": "Continuar"
+  },
+  "nav": {
+    "front": "Inicio",
+    "back": "Backend",
+    "report": "Informes",
+    "analytics": "Análisis"
+  },
+  "chat": {
+    "title": "Asistente IA",
+    "placeholder": "Escribe tu mensaje...",
+    "welcome": "¡Hola! Soy tu asistente de IA. ¿Cómo puedo ayudarte hoy?",
+    "clear": "Limpiar chat",
+    "collapse": "Colapsar chat",
+    "demo_response": "¡Gracias por tu mensaje! Soy un asistente de IA de demostración. En una implementación real, procesaría tu solicitud y proporcionaría una respuesta útil."
+  },
+  "content": {
+    "coming_soon": "Próximamente..."
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "John Doe",
+    "role": "Desarrollador Full Stack y Entusiasta de UI/UX",
+    "cta": "Ver Proyectos"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description1": "Soy un desarrollador Full Stack apasionado con más de 5 años de experiencia en la construcción de aplicaciones web modernas. Mi experiencia incluye React, Node.js y tecnologías cloud.",
+    "description2": "Me encanta crear soluciones elegantes para problemas complejos y estoy constantemente aprendiendo nuevas tecnologías para mantenerme a la vanguardia del desarrollo web.",
+    "description3": "Cuando no estoy programando, puedes encontrarme contribuyendo a proyectos de código abierto, escribiendo artículos técnicos o explorando nuevas tendencias de diseño."
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "view_code": "Código",
+    "view_demo": "Demo",
+    "project1": {
+      "title": "Proyecto Uno",
+      "description": "Una aplicación web moderna construida con React y Node.js"
+    },
+    "project2": {
+      "title": "Proyecto Dos",
+      "description": "Plataforma de comercio electrónico mobile-first con actualizaciones en tiempo real"
+    },
+    "project3": {
+      "title": "Proyecto Tres",
+      "description": "Panel de visualización de datos impulsado por IA"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes una pregunta o quieres trabajar juntos?",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "contact": "Contacto"
+  }
+}

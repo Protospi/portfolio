@@ -1,0 +1,74 @@
+{
+  "landing": {
+    "select_language": "Select Your Language",
+    "placeholder": "Choose a language",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "pt": "Portuguese"
+    },
+    "continue": "Continue"
+  },
+  "nav": {
+    "front": "Front",
+    "back": "Back",
+    "report": "Report",
+    "analytics": "Analytics"
+  },
+  "chat": {
+    "title": "AI Assistant",
+    "placeholder": "Type your message...",
+    "welcome": "Hi! I'm your AI assistant. How can I help you today?",
+    "clear": "Clear chat",
+    "collapse": "Collapse chat",
+    "demo_response": "Thanks for your message! I'm a demo AI assistant. In a real implementation, I would process your request and provide a helpful response."
+  },
+  "content": {
+    "coming_soon": "Coming soon..."
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "John Doe",
+    "role": "Full Stack Developer & UI/UX Enthusiast",
+    "cta": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I'm a passionate Full Stack Developer with over 5 years of experience in building modern web applications. My expertise includes React, Node.js, and cloud technologies.",
+    "description2": "I love creating elegant solutions to complex problems and am constantly learning new technologies to stay at the forefront of web development.",
+    "description3": "When I'm not coding, you can find me contributing to open-source projects, writing technical blog posts, or exploring new design trends."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "view_code": "Code",
+    "view_demo": "Demo",
+    "project1": {
+      "title": "Project One",
+      "description": "A modern web application built with React and Node.js"
+    },
+    "project2": {
+      "title": "Project Two",
+      "description": "Mobile-first e-commerce platform with real-time updates"
+    },
+    "project3": {
+      "title": "Project Three",
+      "description": "AI-powered data visualization dashboard"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or want to work together?",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
