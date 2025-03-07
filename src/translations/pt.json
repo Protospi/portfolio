@@ -10,8 +10,8 @@
     "continue": "Continuar"
   },
   "nav": {
-    "front": "Início",
-    "back": "Backend",
+    "front": "UX",
+    "back": "Back",
     "report": "Relatórios",
     "analytics": "Análises"
   },
@@ -21,15 +21,16 @@
     "welcome": "Olá! Sou seu assistente de IA. Como posso ajudar você hoje?",
     "clear": "Limpar chat",
     "collapse": "Recolher chat",
-    "demo_response": "Obrigado pela sua mensagem! Sou um assistente de IA de demonstração. Em uma implementação real, eu processaria sua solicitação e forneceria uma resposta útil."
+    "demo_response": "Obrigado pela sua mensagem! Sou um assistente de IA de demonstração. Em uma implementação real, eu processaria sua solicitação e forneceria uma resposta útil.",
+    "image_info": "Grande modelo de linguagem que sonha com a internet por DALL-E"
   },
   "content": {
     "coming_soon": "Em breve..."
   },
   "hero": {
     "greeting": "Olá, eu sou",
-    "name": "John Doe",
-    "role": "Desenvolvedor Full Stack e Entusiasta de UI/UX",
+    "name": "Pedro Loes",
+    "role": "Cientista de Dados e Desenvolvedor",
     "cta": "Ver Projetos"
   },
   "about": {

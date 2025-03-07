@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Layout, Server, FileText, BarChart3 } from 'lucide-react';
+import { Monitor, Server, FileText, BarChart } from 'lucide-react';
+import { useLanguage } from '../contexts/LanguageContext';
 
 interface TopNavProps {
   currentView: string;
@@ -8,15 +9,17 @@ interface TopNavProps {
 }
 
 const TopNav = ({ currentView, setCurrentView }: TopNavProps) => {
+  const { t } = useLanguage();
+
   const navItems = [
-    { id: 'site', label: 'Front', icon: Layout },
-    { id: 'back', label: 'Back', icon: Server },
-    { id: 'report', label: 'Report', icon: FileText },
-    { id: 'analytics', label: 'Analytics', icon: BarChart3 }
+    { id: 'site', icon: Monitor, label: t('nav.front') },
+    { id: 'back', icon: Server, label: t('nav.back') },
+    { id: 'report', icon: FileText, label: t('nav.report') },
+    { id: 'analytics', icon: BarChart, label: t('nav.analytics') }
   ];
 
   return (
-    <div className="bg-gradient-to-r from-[#2C3E50] to-[#3F4C6B] py-4 px-4 shadow-lg">
+    <nav className="bg-gradient-to-r from-[#2C3E50] to-[#3F4C6B] py-4 px-4 shadow-lg">
       <div className="flex justify-center space-x-8">
         {navItems.map((item) => {
           const Icon = item.icon;
@@ -38,7 +41,7 @@ const TopNav = ({ currentView, setCurrentView }: TopNavProps) => {
           );
         })}
       </div>
-    </div>
+    </nav>
   );
 };
 

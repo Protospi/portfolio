@@ -14,11 +14,10 @@ const Header = () => {
             animate={{ opacity: 1 }}
             className="text-[#00aaff] text-2xl font-bold"
           >
-            John Doe
           </motion.div>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex space-x-8">
+          <nav className="hidden md:flex space-x-8 absolute left-1/2 transform -translate-x-1/2">
             {['Home', 'About', 'Projects', 'Contact'].map((item) => (
               <a
                 key={item}

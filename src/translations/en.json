@@ -10,7 +10,7 @@
     "continue": "Continue"
   },
   "nav": {
-    "front": "Front",
+    "front": "UX",
     "back": "Back",
     "report": "Report",
     "analytics": "Analytics"
@@ -21,15 +21,16 @@
     "welcome": "Hi! I'm your AI assistant. How can I help you today?",
     "clear": "Clear chat",
     "collapse": "Collapse chat",
-    "demo_response": "Thanks for your message! I'm a demo AI assistant. In a real implementation, I would process your request and provide a helpful response."
+    "demo_response": "Thanks for your message! I'm a demo AI assistant. In a real implementation, I would process your request and provide a helpful response.",
+    "image_info": "Large language model dreaming the internet by DALL-E"
   },
   "content": {
     "coming_soon": "Coming soon..."
   },
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "John Doe",
-    "role": "Full Stack Developer & UI/UX Enthusiast",
+    "name": "Pedro Loes",
+    "role": "Data Scientist & Developer",
     "cta": "View Projects"
   },
   "about": {
@@ -69,6 +70,7 @@
   "header": {
     "home": "Home",
     "about": "About",
+    "projects": "Projects",
     "contact": "Contact"
   }
 }
